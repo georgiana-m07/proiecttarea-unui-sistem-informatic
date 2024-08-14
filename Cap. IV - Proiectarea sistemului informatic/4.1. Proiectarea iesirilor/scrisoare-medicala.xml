@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scrisoaremedicala>
+    <antet>
+        <furnizorserviciimedicale>Spitalul Municipal</furnizorserviciimedicale>
+        <medic>Dr. Maria Popescu</medic>
+        <specialitatea>Medicină dentară</specialitatea>
+        <contractcas>123456789</contractcas>
+    </antet>
+    <scrisoare>
+        <numemedicspecialist>Dr. Ion Georgescu</numemedicspecialist>
+        <numepacient>Ana Ionescu</numepacient>
+        <datanasteriipacient>1990-05-15</datanasteriipacient>
+        <cnppacient>2900515123456</cnppacient>
+        <dataserviciustomatologic>2024-03-31</dataserviciustomatologic>
+        <diagnosticstomatologic>Carie dentară</diagnosticstomatologic>
+        <tratamentstomatologic>Obturație dentară</tratamentstomatologic>
+        <datascrisoare>2024-03-31</datascrisoare>
+        <semnaturamedicdentist>Dr. Maria Popescu</semnaturamedicdentist>
+    </scrisoare>
+</scrisoaremedicala>

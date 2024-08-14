@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dosarevidentalucraridentare>
+    <lucraredentara>
+        <nrcrt>1</nrcrt>
+        <datalucrare>2024-03-31</datalucrare>
+        <numepacient>Ion Popescu</numepacient>
+        <medicdentist>Dr. Maria Ionescu</medicdentist>
+        <diagnostic>Carie dentară</diagnostic>
+        <tratament>Obturație dentară</tratament>
+        <tipullucrarii>Restaurare</tipullucrarii>
+        <detalii>Se recomandă revenirea pentru o consultare de control peste 6 luni.</detalii>
+    </lucraredentara>
+    
+    <lucraredentara>
+        <nrcrt>2</nrcrt>
+        <datalucrare>2024-03-31</datalucrare>
+        <numepacient>Ana Mihai</numepacient>
+        <medicdentist>Dr. Andrei Pop</medicdentist>
+        <diagnostic>Parodontită</diagnostic>
+        <tratament>Detartraj și periaj profesional</tratament>
+        <tipullucrarii>Preventiv</tipullucrarii>
+        <detalii>Pacienta prezintă o sensibilitate la nivelul gingiilor, se recomandă igiena orală riguroasă și revenirea în 3 luni pentru evaluare.</detalii>
+    </lucraredentara>
+
+    <lucraredentara>
+        <nrcrt>3</nrcrt>
+        <datalucrare>2024-03-31</datalucrare>
+        <numepacient>Maria Radulescu</numepacient>
+        <medicdentist>Dr. Alexandru Georgescu</medicdentist>
+        <diagnostic>Extracție dentară</diagnostic>
+        <tratament>Extracție dinte molar</tratament>
+        <tipullucrarii>Chirurgical</tipullucrarii>
+        <detalii>Pacienta a prezentat durere la mestecare și inflamație la nivelul molarului inferior drept. Extracția a decurs fără complicații.</detalii>
+    </lucraredentara>
+    
+</dosarevidentalucraridentare>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biletdetrimitere>
+    <destinatie>Cabinetul Stomatologic "DentalCare"</destinatie>
+    <numepacient>Popescu</numepacient>
+    <prenumepacient>Ana</prenumepacient>
+    <cnppacient>2890123456789</cnppacient>
+    <domiciliupacient>Str. Libertății nr. 15, București</domiciliupacient>
+    <nrregconsultatii>987654</nrregconsultatii>
+    <diagnosticprezumativ>Consultație stomatologică</diagnosticprezumativ>
+    <rezultatinvestigatiimedicale>Consultație stomatologică generală</rezultatinvestigatiimedicale>
+    <datatrimitere>2024-03-31</datatrimitere>
+    <semnaturamedic>Dr. Maria Pop</semnaturamedic>
+</biletdetrimitere>

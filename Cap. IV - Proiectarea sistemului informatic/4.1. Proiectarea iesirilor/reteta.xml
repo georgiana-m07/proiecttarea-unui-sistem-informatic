@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<retetamedicala>
+    <antet>
+        <judet>București</judet>
+        <localitate>Sector 3</localitate>
+        <unitatemedicala>Cabinet Stomatologic "SmileCare"</unitatemedicala>
+    </antet>
+    <reteta>
+        <numepacient>Popescu</numepacient>
+        <prenumepacient>Ion</prenumepacient>
+        <sexpacient>Masculin</sexpacient>
+        <domiciliujudet>București</domiciliujudet>
+        <domiciuliulocalitatea>Sector 2</domiciuliulocalitatea>
+        <domiciuliustrada>Str. Mihai Eminescu</domiciuliustrada>
+        <domiciuliunr>20</domiciuliunr>
+        <nrfisa>123456</nrfisa>
+        <diagnostic>Carie dentară</diagnostic>
+        <rp>Algocalmin cp 500mg AO nr I(unu)</rp>
+        <ds>PO 2x1cp/zi, 3-5 zile</ds>
+        <datareteta>2024-03-31</datareteta>
+        <semnaturamedic>Dr. Maria Popescu</semnaturamedic>
+    </reteta>
+</retetamedicala>
